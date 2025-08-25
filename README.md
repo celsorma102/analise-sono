@@ -57,7 +57,7 @@ O projeto faz uso de uma variedade de gráficos interativos para explorar e comu
 > **Destaque:**  
 > O uso dos gráficos de dispersão (scatter) e violin foi um diferencial neste projeto, pois são ferramentas poderosas para análise exploratória, mas que raramente havia utilizado antes. O scatter plot ajudou a revelar relações entre variáveis contínuas, enquanto o violin plot trouxe uma visão mais rica da distribuição dos dados em diferentes categorias, indo além do que um boxplot tradicional mostraria.
 
-Esses gráficos, aliados à interatividade do Streamlit e Plotly, tornam a análise mais dinâmica, visual e acessível para
+Esses gráficos, aliados à interatividade do Streamlit e Plotly, tornam a análise mais dinâmica, visual e acessível para diferentes publicos.
 
 ## ✅ Variáveis analisadas
 
